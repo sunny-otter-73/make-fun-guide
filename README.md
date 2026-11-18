@@ -11,9 +11,9 @@ the entry, you submit it, and if it places, you claim the reward to your own Sol
 This guide walks you from no account to your first submitted entry. No experience with make.fun
 assumed — if you have used a coding agent before, you already know the hard part.
 
-> **New here? Sign up with my link:** <https://make.fun/r/p1v8aedj>
+> **New here? Sign up with my link:** <https://make.fun/r/zn1k643w>
 >
-> My referral code is `p1v8aedj`. It costs you nothing — and it is how this guide keeps score.
+> My referral code is `zn1k643w`. It costs you nothing — and it is how this guide keeps score.
 
 ## Contents
 
@@ -56,7 +56,7 @@ That is the whole loop. The rest of this guide is the detail.
 
 ## Step 1 — Create your account
 
-1. Open <https://make.fun/r/p1v8aedj> and click **Sign in** at the top right.
+1. Open <https://make.fun/r/zn1k643w> and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. Signing in is free, and signing
    in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a
@@ -253,7 +253,7 @@ One mechanic worth knowing: a referral binds to the code a visitor's browser fir
 first touch wins for 60 days — a later link does not replace it. So the link someone clicks first
 is the one that counts.
 
-If this guide helped, signing up through [my link](https://make.fun/r/p1v8aedj) (code `p1v8aedj`)
+If this guide helped, signing up through [my link](https://make.fun/r/zn1k643w) (code `zn1k643w`)
 is a nice way to say thanks.
 
 ## Questions
@@ -306,4 +306,4 @@ personal detail you name.
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/p1v8aedj · code `p1v8aedj`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/zn1k643w · code `zn1k643w`</sub>
